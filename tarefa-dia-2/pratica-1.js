@@ -1,5 +1,5 @@
-nome = erica
-email = ericaguimaraes@engineer.com
-profissao = engenheira
-idade = 31
-prox destino = cape town
+let nome = "erica" 
+let email = "ericaguimaraes@engineer.com"
+let profissao = "engenharia"
+let idade = 31
+let prox destino = "cape town"
