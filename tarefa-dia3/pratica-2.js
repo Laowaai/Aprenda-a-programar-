@@ -1,13 +1,22 @@
-let n = 10
+// Código de tabuada
 
-let multiplicador
+// multiplicador * 1 até n
 
-while (multiplicador < 10)
+let n = 10 
 
-console.log (n*multiplicador)
+let multiplicador = 10
 
-multiplicador = multiplicador + 1
+let i = 1
 
+while (i <= n) {
 
+let multiplicacao = i * multiplicador
+
+let mensagemDaTela = `${multiplicador} X ${i} = ${multiplicacao}` 
+
+console.log (mensagemDaTela)
+
+ i++
+}
 
 
