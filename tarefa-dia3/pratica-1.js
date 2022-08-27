@@ -1,8 +1,8 @@
-let n = 0
+let contador = 1
 
-while (n < 10)
+while (contador < 10)
 
-console.log(n++)
+console.log(contador++)
 
 
 
