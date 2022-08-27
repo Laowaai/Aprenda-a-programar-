@@ -6,5 +6,8 @@ while (multiplicador < 10)
 
 console.log (n*multiplicador)
 
+multiplicador = multiplicador + 1
+
+
 
 
